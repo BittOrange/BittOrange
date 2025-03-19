@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Business/Data Analytics Projects:</h2>
 
-- [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Chicago_Car_Accident_Analysis (Hackathon)](https://github.com/BittOrange/Chicaco_Tracffic_Accident_hack/blob/main/README.md)
 
 <h2>📺 Certifications</h2>
 
